@@ -16,7 +16,7 @@ A frontend application developed using React.js as part of the Educase India ass
 - React Router
 
 ## Live Demo
-
+https://popx-application-three.vercel.app/
 
 ## GitHub Repository
 https://github.com/SumedhPawar123
